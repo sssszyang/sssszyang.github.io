@@ -348,7 +348,7 @@
     align-items: flex-end;
     align-content: center;
     padding-top: 0.5rem;
-    color: white;
+    color: rgb(255, 255, 255);
   }
   
   #body-wrap.error .aside-list .aside-list-item .content time {
